@@ -1,4 +1,4 @@
-# secrets.tf
+secrets.tf
 terraform.tfvars
 */terraform.tfvars
 .terraform.lock.hcl
