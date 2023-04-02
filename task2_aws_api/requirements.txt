@@ -1,2 +1,3 @@
 boto3==1.26.104
 openpyxl==3.0.9
+pandas==1.4.2
