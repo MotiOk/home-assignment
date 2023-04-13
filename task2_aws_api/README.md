@@ -14,4 +14,6 @@ The output of the application is exported to excel file.
 
 !!! IMPORTANT !!!
 If the excel file is already been used by this app, you should make another clean one.
-Just create a new Excel file with the name which is conigued at the .env variables .
+Just create a new Excel file with the name which is conigured at the .env file as 'workbook_name' .
+
+If you want to change the DB name, change also the name which is conigured at the .env file as 'db_name' .
